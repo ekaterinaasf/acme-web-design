@@ -1,0 +1,1 @@
+This file is created for describing the steps made to complete project, what value each step adds to the use, and what code written to build each step.
