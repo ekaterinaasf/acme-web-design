@@ -1,0 +1,7 @@
+For testing size for the small screen.
+This should disappear if the size less than:
+@media(max-width: 768px){
+    body{
+        display: none;
+    }
+}
